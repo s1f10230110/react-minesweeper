@@ -1,3 +1,7 @@
+# マインスイーパー
+Reactで作成したマインスイーパーです。
+このリポジトリには、完成したプロジェクトをアーカイブとして保存しています。
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
